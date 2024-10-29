@@ -9,7 +9,7 @@ const float Q = 400.0f;
 const float B = 4.0f;
 const float A = 1.0f;
 const float PHI = 0.5;
-const float PHI_E_R = 0.90f;
+const float PHI_E_R = 0.88f;
 const float PHI_MIN = 0.0000001;
 
 class NodeSalesman : public rc::NodeBase {
