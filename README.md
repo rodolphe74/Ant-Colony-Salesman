@@ -1,2 +1,2 @@
 # Ant-Colony-Salesman
-&#x2713; Le hasard fait bien les choses. &#x2713;
+&#x1F41C; Le hasard fait bien les choses. &#x1F41C;
