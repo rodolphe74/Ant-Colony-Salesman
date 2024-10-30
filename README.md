@@ -22,5 +22,5 @@ Visualization of the ant colony algorithm applied to the travelling salesman pro
 # Compilation
 
 # References
-(1)[https://www.youtube.com/watch?v=8lYKzj470zc&t=462s]
+[1](https://www.youtube.com/watch?v=8lYKzj470zc&t=462s)
 (2)[https://www.youtube.com/watch?v=u7bQomllcJw&t=323s]
