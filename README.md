@@ -21,7 +21,7 @@ The first ACO algorithm was called the ant system and it was aimed to solve the 
 Visualization of the ant colony algorithm applied to the travelling salesman problem. The whiter the line, the more pheromones there are. Selected solution appears in cyan.
 
 # Compilation on macOS
-CMakeFile build system is used to create a Makefile.__
+CMakeFile build system is used to create a Makefile._
 SFML graphic library is mandatory to display the vizualisation of the algorithm.__
 These tools are made availables with [homebrew](https://brew.sh/) on macOS.__
 
