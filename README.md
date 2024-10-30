@@ -43,5 +43,6 @@ make for console version.<br/>
 make install for macOS bundled SFML version.
 
 # References
+- <img src = "svm/SVM_41_p0075.JPG" width="20%"> &nbsp; <img src = "svm/SVM_41_p0076.JPG" width="20%">
 - [How to Apply Ant Colony Optimization to Traveling Salesman Problem (TSP) Numerical Example~xRay Pixy](https://www.youtube.com/watch?v=8lYKzj470zc&t)
 - [Ant colony optimization algorithm](https://www.youtube.com/watch?v=u7bQomllcJw&t)
