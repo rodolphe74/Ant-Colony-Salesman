@@ -10,11 +10,11 @@ Ant colony optimization algorithms have been applied to many combinatorial optim
 
 The first ACO algorithm was called the ant system and it was aimed to solve the travelling salesman problem, in which the goal is to find the shortest round-trip to link a series of cities. The general algorithm is relatively simple and based on a set of ants, each making one of the possible round-trips along the cities. At each stage, the ant chooses to move from one city to another according to some rules:
 
-    - It must visit each city exactly once;
-    - A distant city has less chance of being chosen (the visibility);
-    - The more intense the pheromone trail laid out on an edge between two cities, the greater the probability that that edge will be chosen;
-    - Having completed its journey, the ant deposits more pheromones on all edges it traversed, if the journey is short;
-    - After each iteration, trails of pheromones evaporate.
+- It must visit each city exactly once;
+- A distant city has less chance of being chosen (the visibility);
+- The more intense the pheromone trail laid out on an edge between two cities, the greater the probability that that edge will be chosen;
+- Having completed its journey, the ant deposits more pheromones on all edges it traversed, if the journey is short;
+- After each iteration, trails of pheromones evaporate.
 
 <img src="sample.gif" alt="ant colony" width=400 />
 
