@@ -18,3 +18,9 @@ Visualization of the ant colony algorithm applied to the travelling salesman pro
     - After each iteration, trails of pheromones evaporate.
 
 <img src="sample.gif" alt="ant colony" width=400 />
+
+# Compilation
+
+# References
+(1)[https://www.youtube.com/watch?v=8lYKzj470zc&t=462s]
+(2)[https://www.youtube.com/watch?v=u7bQomllcJw&t=323s]
