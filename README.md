@@ -2,7 +2,7 @@
 
 Ant colony optimization on the Travelling salesman problem.
 
-Or how to find a good solution to help a travelling salesman to find one of the shortest path joining 36 french cities and return back to the first one.
+Or how to find a good solution to help a travelling salesman to find one of the shortest (maybe the shortest) path joining 36 french cities and return back to the first one.
 
 From Wikipedia:
 
