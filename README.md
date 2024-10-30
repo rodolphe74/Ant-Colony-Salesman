@@ -21,9 +21,9 @@ The first ACO algorithm was called the ant system and it was aimed to solve the 
 Visualization of the ant colony algorithm applied to the travelling salesman problem. The whiter the line, the more pheromones there are. Selected solution appears in cyan.
 
 # Compilation on macOS
-CMakeFile build system is used to create a Makefile._
-SFML graphic library is mandatory to display the vizualisation of the algorithm.__
-These tools are made availables with [homebrew](https://brew.sh/) on macOS.__
+CMakeFile build system is used to create a Makefile.<br/>
+SFML graphic library is mandatory to display the vizualisation of the algorithm.<br/>
+These tools are made availables with [homebrew](https://brew.sh/) on macOS.<br/>
 
 # References
 - [How to Apply Ant Colony Optimization to Traveling Salesman Problem (TSP) Numerical Example~xRay Pixy](https://www.youtube.com/watch?v=8lYKzj470zc&t)
