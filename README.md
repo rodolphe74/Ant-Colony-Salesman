@@ -23,7 +23,7 @@ Visualization of the ant colony algorithm applied to the travelling salesman pro
 # Compilation on macOS
 [CMakeFile](https://cmake.org/) build system is used to create a Makefile to build targets.<br/>
 [SFML](https://www.sfml-dev.org/index-fr.php) graphic library is mandatory to display the vizualisation of the algorithm.<br/>
-These tools are made availables with [homebrew](https://brew.sh/) on macOS.<br/>
+These tools are made available with [homebrew](https://brew.sh/) on macOS.<br/>
 Homebrew should be installed in /opt.
 ```
 brew install cmake
