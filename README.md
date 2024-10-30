@@ -18,7 +18,7 @@ The first ACO algorithm was called the ant system and it was aimed to solve the 
 
 <img src="sample.gif" alt="ant colony" width=400 />
 
-Visualization of the ant colony algorithm applied to the travelling salesman problem. The whiter the line, the more pheromones there are. Selected solution appears in cyan.
+Visualization of the ant colony algorithm applied to the travelling salesman problem. The whiter the line, the more pheromones there are. Selected solution appears in cyan. The path is considered stabilized if after 100 iterations the path distance stays nearly the same.
 
 # Compilation on macOS
 [CMakeFile](https://cmake.org/) build system is used to create a Makefile to build targets.<br/>
