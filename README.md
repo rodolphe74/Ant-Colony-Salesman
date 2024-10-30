@@ -22,5 +22,5 @@ Visualization of the ant colony algorithm applied to the travelling salesman pro
 # Compilation
 
 # References
--[How to Apply Ant Colony Optimization to Traveling Salesman Problem (TSP) Numerical Example~xRay Pixy](https://www.youtube.com/watch?v=8lYKzj470zc&t=462s)
--[Ant colony optimization algorithm](https://www.youtube.com/watch?v=u7bQomllcJw&t=323s)
+- [How to Apply Ant Colony Optimization to Traveling Salesman Problem (TSP) Numerical Example~xRay Pixy](https://www.youtube.com/watch?v=8lYKzj470zc&t=462s)
+- [Ant colony optimization algorithm](https://www.youtube.com/watch?v=u7bQomllcJw&t=323s)
