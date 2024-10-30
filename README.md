@@ -21,10 +21,10 @@ The first ACO algorithm was called the ant system and it was aimed to solve the 
 Visualization of the ant colony algorithm applied to the travelling salesman problem. The whiter the line, the more pheromones there are. Selected solution appears in cyan.
 
 # Compilation on macOS
-CMakeFile build system is used to create a Makefile to build targets.<br/>
-SFML graphic library is mandatory to display the vizualisation of the algorithm.<br/>
+[CMakeFile](https://cmake.org/) build system is used to create a Makefile to build targets.<br/>
+[SFML](https://www.sfml-dev.org/index-fr.php) graphic library is mandatory to display the vizualisation of the algorithm.<br/>
 These tools are made availables with [homebrew](https://brew.sh/) on macOS.<br/>
-Homebrew shoul be installed in /opt.
+Homebrew should be installed in /opt.
 ```
 brew install cmake
 brew install sfml
@@ -39,8 +39,8 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 make
 make install
 ```
-make for console version.
-make install for sfml version.
+make for console version.<br/>
+make install for macOS bundled SFML version.
 
 # References
 - [How to Apply Ant Colony Optimization to Traveling Salesman Problem (TSP) Numerical Example~xRay Pixy](https://www.youtube.com/watch?v=8lYKzj470zc&t)
