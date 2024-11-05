@@ -27,6 +27,7 @@ target_link_libraries(SfmlSalesman sfml-window sfml-system sfml-graphics ${CoreF
 add_executable(Salesman Main.cpp Graph.cpp GraphSalesman.cpp)
 target_link_libraries(Salesman sfml-window sfml-system sfml-graphics ${CoreFoundation_Library})
 
+add_subdirectory(stats)
 
 # make install will create and sign the app bundle
 install(CODE [[
